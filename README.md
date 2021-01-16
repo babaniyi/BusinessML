@@ -1,4 +1,4 @@
-# Preply Data Scientist Job Application
+# Babaniyi's Preply Data Scientist Job Application
 
 A short project for Preply Data Scientist Job Application to showcase my knowledge of:
 
@@ -10,7 +10,10 @@ A short project for Preply Data Scientist Job Application to showcase my knowled
 
 
 The files are in different formats:
-1. PDF - Preply_Retail.pdf
-2. Jupyter Notebook - Preply_Retail.ipynb
+
+1. Jupyter Notebook - [Highly recommended, click here to read now](https://github.com/neahyo/PreplyApplication/blob/main/Preply_Retail.ipynb)
+
+2. PDF - [Click here to read](https://github.com/neahyo/PreplyApplication/blob/main/Preply_Retail.pdf)
+
 
 Please use as deem fit.
