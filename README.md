@@ -3,10 +3,10 @@
 A short project for Preply Data Scientist Job Application to showcase my knowledge of:
 
 1. **Business Metrics** - Monthly: Revenue, Growth Rate, Active Orders, Average Revenue per Order
-2. **Consumer metrics** - Cohort analysis, Retention, Churn rate, Cohort-based retention rate
+2. **Consumer metrics** - Cohort analysis, Retention rate, Churn rate, Cohort-based retention rate
 3. **Customer journey** - From acquisition to activation, engagement and retention
-4. **Growth techniques** - Attribution, Channels optimisation, 
-5. **Segmentation** - Clustering and Segmentation (using RFM Recency, Frequency and Monetary Value)
+4. **Customer Growth** - Attribution, Channels optimisation (First-touch, Last-touch, Markov Chain)
+5. **Customer Segmentation** - Clustering and Segmentation (using RFM Recency, Frequency and Monetary Value)
 
 
 The files are in different formats:
