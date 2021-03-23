@@ -11,7 +11,7 @@ A short project for Preply Data Scientist Job Application to showcase my knowled
 
 The files are in different formats:
 
-1. Jupyter Notebook - [Highly recommended, click here to read now](files/Preply_Retail.ipynb)
+1. Jupyter Notebook - [Highly recommended, click here to read now](https://nbviewer.jupyter.org/github/neahyo/PreplyApplication/blob/main/files/Preply_Retail.ipynb)
 
 2. PDF - [Click here to read](files/Preply_Retail.pdf)
 
