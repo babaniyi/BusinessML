@@ -1,6 +1,6 @@
-# Babaniyi's Preply Data Scientist Job Application
+# Solving Business Problems with ML Techniques
 
-A short project for Preply Data Scientist Job Application to showcase my knowledge of solving business problems using data science and machine learning techniques:
+A short project to showcase my knowledge of solving business problems using data science and machine learning techniques:
 
 1. **Business Metrics** - Monthly: Revenue, Growth Rate, Active Orders, Average Revenue per Order
 2. **Consumer metrics** - Cohort analysis, Retention rate, Churn rate, Cohort-based retention rate
